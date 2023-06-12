@@ -1,0 +1,24 @@
+#container {
+    top: 0%;
+    position: absolute;
+    background: rgb(255, 0, 102);
+    width: 100%;
+    height: 100%;
+    left: 0%;
+    padding: 10px;
+    text-align: center;
+
+}
+
+#container h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#container button{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    width: 80px;
+    border-radius: 10%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
